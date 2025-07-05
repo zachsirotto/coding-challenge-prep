@@ -1,0 +1,2 @@
+- LeetCode 1: Two Sum
+- LeetCode 146: LRU Cache
