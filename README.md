@@ -93,8 +93,9 @@ Practice (1–2 easy-medium per topic):
 ⸻
 
 📚 Optional Review Resources
-	•	[NeetCode’s playlist](https://www.youtube.com/c/NeetCode) – curated for interviews
 
-	•	[LeetCode Explore Cards](https://leetcode.com/explore/) – for topic-based refreshers
+•	[NeetCode’s playlist](https://www.youtube.com/c/NeetCode) – curated for interviews
 
-	•	[VisuAlgo](https://visualgo.net/en) – for animation-based understanding
+•	[LeetCode Explore Cards](https://leetcode.com/explore/) – for topic-based refreshers
+
+•	[VisuAlgo](https://visualgo.net/en) – for animation-based understanding
