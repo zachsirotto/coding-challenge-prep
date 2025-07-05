@@ -5,10 +5,14 @@ Structured plan to refresh DFS, BFS, Stacks, Queues, Caches, DP.
 ⸻
 
 ✅ Goals
-	•	Refresh fundamentals of DFS, BFS, Queues, Stacks, Caches, and Hashmaps
-	•	Understand real-world and algorithmic applications
-	•	Practice interview-level problems involving combinations of these, including memoization/DP
-	•	Build intuition for when to use what
+
+•	Refresh fundamentals of DFS, BFS, Queues, Stacks, Caches, and Hashmaps
+
+•	Understand real-world and algorithmic applications
+
+•	Practice interview-level problems involving combinations of these, including memoization/DP
+
+•	Build intuition for when to use what
 
 ⸻
 
