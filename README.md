@@ -29,6 +29,10 @@ Structured plan to refresh DFS, BFS, Stacks, Queues, Caches, DP.
 - Queue (array & circular buffer)
 - Deque
 
+**Practice**:
+
+- [ ] [Day 18: Queues and Stacks (Hackerrank)](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+
 #### 🔹 2. DFS vs BFS
 
 **DFS**:
